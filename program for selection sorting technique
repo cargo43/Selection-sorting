@@ -24,7 +24,7 @@ void Selectionsort(int a[], int n)
 }
 
 int main()
-{   int array[5]= {23,45,65,7,5};
+{   int array[5]= {33,85,75,7,4};
     Selectionsort(array, 5);
     return 0;
 }
